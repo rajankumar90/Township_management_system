@@ -1,0 +1,6 @@
+1001,Sarfi Taqwin,sarfi@gmail.com,9876556789,sarfi11,Sarfi@11
+1002,Rajashree Mishra,rajashree@gmail.com,9889877867,shree13,Shree@13
+1003,Rakshita sagar,rak@gmail.com,9090098765,rak11,RakSagar@11
+1004,Rahul Rai,rahul@gmail.com,8787878787,rahul12,Rahul@123
+1005,tenant uy,tenant@gmail.com,7894561230,rai123,Rahul@13
+1006,Rahul Rai,Riyasingh@gmail.com,9864262130,Rrsin,RagSa@11
